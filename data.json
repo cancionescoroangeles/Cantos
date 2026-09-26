@@ -872,7 +872,8 @@
       "id": "s_mr5hixr4uv0ux",
       "title": "Santo (niños)",
       "moment": "Santo",
-      "lyrics": "Santo es el Señor Dios del universo.\nSanto es el Señor.\nLlenos están el cielo y tierra de su gloria.\nHosanna en el cielo, hosaaanna.\nHosanna en el cielo, hosaaaanna.\nBendito el que viene en nombre del Señor.\nBendito seas, Señor. Hosanna..."
+      "lyrics": "Santo es el Señor Dios del universo.\nSanto es el Señor.\nLlenos están el cielo y tierra de su gloria.\nHosanna en el cielo, hosaaanna.\nHosanna en el cielo, hosaaaanna.\nBendito el que viene en nombre del Señor.\nBendito seas, Señor. Hosanna...",
+      "note": "Do"
     },
     {
       "id": "s_mr5hixr44qwtv",
@@ -1845,7 +1846,7 @@
       "title": "Dijiste Si",
       "moment": "Salida",
       "lyrics": "Dijiste sí y la tierra estalló de alegría\nDijiste sí y en tu vientre latía divina la salvación\nHágase en mí, de corazón, la voluntad de mi Señor\nQue se cumplan en mí cada día los sueños de Dios\n\nMaría, las tinieblas se harán mediodía\nA una sola palabra que digas, en tus labios alumbra ya el sol\nMaría, la doncella que Dios prometía\nUn volcán de ternura divina, primavera de Dios Redentor\n\nGabriel tembló, conmovido con tanta belleza\nMadre de Dios, cuélame en tu mirada de amor de la Anunciación\nHágase en mí, de corazón, la voluntad de mi Señor\nQue se cumplan en mí cada día los sueños de Dios\n\nMaría, las tinieblas se harán mediodía\nA una sola palabra que digas, en tus labios alumbra ya el sol\nMaría, la doncella que Dios prometía\nUn volcán de ternura divina, primavera de Dios Redentor\n\nHágase en mí, de corazón, la voluntad de mi Señor\nQue se cumplan en mí cada día los sueños de Dios\n\nMaría, las tinieblas se harán mediodía\nA una sola palabra que digas, en tus labios alumbra ya el sol\nMaría, la doncella que Dios prometía\nUn volcán de ternura divina, primavera de Dios Redentor\n\n",
-      "note": "Mi"
+      "note": "Do 2"
     },
     {
       "id": "s_mu74qr7vjcwzu",
@@ -1978,6 +1979,12 @@
       "moment": "Entrada",
       "lyrics": "\n\nSeñor, Dios nuestro,\nque admirable es tu nombre\nen toda la tierra, en toda la tierra.\n\n1. Cuando contemplo el cielo, obra de tus dedos,\nla luna y las estrellas que has creado.\n-¿Qué es el hombre,\npara que te acuerdes de él;\nel ser humano, para darle poder.\n",
       "note": ""
+    },
+    {
+      "id": "s_muii856vqwbcp",
+      "title": "Señor Dios nuestro",
+      "moment": "Salmos",
+      "lyrics": "Señor Dios nuestro,\nqué admirable es tu nombre\nen toda la tierra, en toda la tierra.\n\nCuando contemplo el cielo\nobra de tus dedos,\nla luna y las estrellas que has creado.\n\n¿qué es el hombre,\npara que te acuerdes de él,\nel ser humano para darle poder?"
     }
   ],
   "repertoires": [
@@ -2083,7 +2090,7 @@
         "s_mu73pajnjegq2",
         "s_mr5hixr411r95",
         "s_mr5hixr4zeska",
-        "s_mr5hixr4yhww5",
+        "s_mr5hixr4uv0ux",
         "s_mtzm0us4fzo66",
         "s_mu2idncjo0wks",
         "s_mtzn3bfyppjpv",
