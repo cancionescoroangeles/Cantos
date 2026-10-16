@@ -35,7 +35,8 @@
       "id": "s_mr5hixr4r9a9j",
       "title": "Tan cerca de mí",
       "moment": "Entrada",
-      "lyrics": "Tan cerca de ti, tan cerca de mí, \nque hasta lo puedo tocar, Jesús esta aquí.\n\n \nLe hablare sin miedo al oído, le contaré las cosas que hay en mí; y que solo a Él le interesaran, \nÉl es más que un mito para mí... \n\nTan cerca de ti... \n\nNo busques a Cristo en lo alto, ni lo busques en la oscuridad; muy cerca de ti, en tu corazón, puedes adorar a tu Señor... \n\nTan cerca de ti... Míralo a tu lado caminando, paseando entre la multitud; muchos ciegos son, porque no lo ven, ciegos de ceguera espiritual...\n\n"
+      "lyrics": "Tan cerca de ti, tan cerca de mí, \nque hasta lo puedo tocar, Jesús esta aquí.\n\n \nLe hablare sin miedo al oído, le contaré las cosas que hay en mí; y que solo a Él le interesaran, \nÉl es más que un mito para mí... \n\nTan cerca de ti... \n\nNo busques a Cristo en lo alto, ni lo busques en la oscuridad; muy cerca de ti, en tu corazón, puedes adorar a tu Señor... \n\nTan cerca de ti... Míralo a tu lado caminando, paseando entre la multitud; muchos ciegos son, porque no lo ven, ciegos de ceguera espiritual...\n\n",
+      "note": "Do 2"
     },
     {
       "id": "s_mr5hixr4yq8g2",
@@ -1178,9 +1179,10 @@
     },
     {
       "id": "s_mr5hncfhpfwc5",
-      "title": "Gloria a Dios en las Alturas / Do 2",
+      "title": "Gloria a Dios en las Alturas",
       "moment": "Gloria",
-      "lyrics": "Gloria a Dios, en las alturas y en la tierra, paz a los hombres Que ama el Señor.\n \nPor tu inmensa Gloria te alabamos Bendecimos y Adoramos, te glorificamos te damos gracias. Rey celestial, padre amoroso Señor Jesucristo, cordero de Dios hijo del Padre. \n\nGloria a Dios …… \n\nTu que quitas el pecado de este mundo escucha nuestra voz, ten piedad de nosotros. Solo tú eres santo, sólo tú, Señor Jesucristo, con el Espíritu en la Gloria del Padre.\n"
+      "lyrics": "Gloria a Dios, en las alturas y en la tierra, paz a los hombres Que ama el Señor.\n \nPor tu inmensa Gloria te alabamos Bendecimos y Adoramos, te glorificamos te damos gracias. Rey celestial, padre amoroso Señor Jesucristo, cordero de Dios hijo del Padre. \n\nGloria a Dios …… \n\nTu que quitas el pecado de este mundo escucha nuestra voz, ten piedad de nosotros. Solo tú eres santo, sólo tú, Señor Jesucristo, con el Espíritu en la Gloria del Padre.\n",
+      "note": "Do 2"
     },
     {
       "id": "s_mr7kry8ekk0d8",
@@ -1217,7 +1219,8 @@
       "id": "s_mr8z2qnrc7emh",
       "title": "Es Jesús está en ti",
       "moment": "Comunión",
-      "lyrics": "Jesús está en ti, está en mí, \nEstá en todos mis hermanos. \nEstá en ti, está en mí, \nEstá en todos mis hermanos. \n\nQuién hace crecer las flores, \nquien hace descender del agua. \nQuien hace nuevo tu corazón cada mañana.\nQuien hace aparecer el sol, \nquien llena de estrellas el cielo, \nquien en la noche más oscura \nte da todo su consuelo. \n"
+      "lyrics": "Jesús está en ti, está en mí, \nEstá en todos mis hermanos. \nEstá en ti, está en mí, \nEstá en todos mis hermanos. \n\nQuién hace crecer las flores, \nquien hace descender del agua. \nQuien hace nuevo tu corazón cada mañana.\nQuien hace aparecer el sol, \nquien llena de estrellas el cielo, \nquien en la noche más oscura \nte da todo su consuelo.\n\nQuién llena de amor tu corazón,\nquién hoy se acerca a ti con ilusión.\nQuién en tu pecho se queda contigo,\nquién será siempre tu mejor amigo.\nQuién te acompaña por el camino,\nquién nunca te deja, Jesús es tu amigo.\nQuién te da fuerza, quién te da su paz,\nJesús en tu vida siempre estará. \n",
+      "note": "Do 1"
     },
     {
       "id": "s_mr8z5q7zg1gvz",
@@ -1308,7 +1311,8 @@
       "id": "s_mrm0s0gkub4zk",
       "title": "Santo es el Señor (Hosanna)",
       "moment": "Triduo Pascual",
-      "lyrics": "Santo es el Señor, Dios del Universo,\nSanto, es el Señor.\nLlenos están el cielo y la tierra\nde tu gloria.\n\nOhsana en el cielo, ohsanaana,\nohsaanna en el cielo, ohsanaana.\n\nBendito es el que viene en el nombre del Señor,\nbendito seas Señor.\n\nOhsana en el cielo, ohsanaana,\nohsaanna en el cielo, ohsanaana."
+      "lyrics": "Santo es el Señor, Dios del Universo,\nSanto, es el Señor.\nLlenos están el cielo y la tierra\nde tu gloria.\n\nHosana en el cielo, hosanaana,\nhosaanna en el cielo, hosanaana.\n\nBendito es el que viene en el nombre del Señor,\nbendito seas Señor.\n\nHosana en el cielo, hosanaana,\nhosaanna en el cielo, hosanaana.\n",
+      "note": "Do"
     },
     {
       "id": "s_mrm0s0gkj6fqd",
@@ -1846,7 +1850,7 @@
       "title": "Dijiste Si",
       "moment": "Salida",
       "lyrics": "Dijiste sí y la tierra estalló de alegría\nDijiste sí y en tu vientre latía divina la salvación\nHágase en mí, de corazón, la voluntad de mi Señor\nQue se cumplan en mí cada día los sueños de Dios\n\nMaría, las tinieblas se harán mediodía\nA una sola palabra que digas, en tus labios alumbra ya el sol\nMaría, la doncella que Dios prometía\nUn volcán de ternura divina, primavera de Dios Redentor\n\nGabriel tembló, conmovido con tanta belleza\nMadre de Dios, cuélame en tu mirada de amor de la Anunciación\nHágase en mí, de corazón, la voluntad de mi Señor\nQue se cumplan en mí cada día los sueños de Dios\n\nMaría, las tinieblas se harán mediodía\nA una sola palabra que digas, en tus labios alumbra ya el sol\nMaría, la doncella que Dios prometía\nUn volcán de ternura divina, primavera de Dios Redentor\n\nHágase en mí, de corazón, la voluntad de mi Señor\nQue se cumplan en mí cada día los sueños de Dios\n\nMaría, las tinieblas se harán mediodía\nA una sola palabra que digas, en tus labios alumbra ya el sol\nMaría, la doncella que Dios prometía\nUn volcán de ternura divina, primavera de Dios Redentor\n\n",
-      "note": "Do 2"
+      "note": "Do 1 / Re"
     },
     {
       "id": "s_mu74qr7vjcwzu",
@@ -2143,14 +2147,13 @@
         "s_mtzmbpsolvv7y",
         "s_mtzm78fuejlvu",
         "s_mr5hixr4s0qk3",
-        "s_mu73pajnjegq2",
-        "s_mr5hixr411r95",
+        "s_mr5hncfhpfwc5",
         "s_mr5hixr4zeska",
-        "s_mr5hixr4uv0ux",
+        "s_mrm0s0gkub4zk",
         "s_mtzm0us4fzo66",
+        "s_mr8z2qnrc7emh",
+        "s_mr5hixr4r9a9j",
         "s_mu2idncjo0wks",
-        "s_ms31scghd5x88",
-        "s_mtzn3bfyppjpv",
         "s_mr8z5q7zg1gvz",
         "s_mu73uc4xmjo7z"
       ]
