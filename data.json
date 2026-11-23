@@ -2046,6 +2046,13 @@
       "moment": "Comunión",
       "lyrics": "SEÑOR, TOMA MI VIDA NUEVA ANTES DE QUE LA ESPERA DESGASTE AÑOS EN MI ESTOY DISPUESTO A LO QUE QUIERAS NO IMPORTA LO QUE SEA TU LLÁMAME A SERVIR..\n\nTE DOY MI CORAZON SINCERO PARA GRITAR SIN MIEDO TU GRANDEZA, SEÑOR TENDRE MIS MANOS SIN CANSANCIO TU HISTORIA ENTRE MIS LABIOS Y FUERZA EN LA ORACION ASI EN MARCHA IRE CANTANDO POR CALLES PREDICANDO LO BELLO QUE \n\nES TU AMOR SEÑOR TENGO ALMA MISIONERA CONDUCEME A LA TIERRA QUE TENGA SED DE TI LLEVAME DONDE LOS HOMBRES NECESITEN TUS PALABRAS NECESITEN \n\n /  MIS GANAS DE VIVIR (DE VIVIR) DONDE FALTE LA ESPERANZA DONDE FALTE LA ALEGRIA SIMPLEMENTE    /    POR NO SABER DE TI",
       "note": ""
+    },
+    {
+      "id": "s_mwth54ovx9rlh",
+      "title": "Vamos a preparar el camino del Señor",
+      "moment": "Entrada",
+      "lyrics": "VAMOS A PREPARAR EL CAMINO DEL SEÑOR,\nVAMOS A CONSTRUIR LA CIUDAD DE NUESTRO DIOS.\n\nVENDRÁ EL SEÑOR CON LA AURORA,\nÉL BRILLARÁ EN LA MAÑANA,\nPREGONARÁ LA VERDAD.\n\nVENDRÁ EL SEÑOR CON SU FUERZA,\nÉL ROMPERÁ LAS CADENAS,\nÉL NOS DARÁ LA LIBERTAD.\n\n1. Él estará a nuestro lado,\nÉl guiará nuestros pasos,\nÉL NOS DARÁ LA SALVACIÓN.\n\nNos limpiará del pecado,\nya no seremos esclavos,\nÉL NOS DARÁ LA LIBERTAD.\n\n2. Visitará nuestras casas,\nnos llenará de esperanzas,\nÉL NOS DARÁ LA SALVACIÓN.\n\nCompartirá nuestros cantos,\ntodos seremos hermanos,\nÉL NOS DARÁ LA LIBERTAD.\n\n3. Caminará con nosotros,\nnunca estaremos ya solos,\nÉL NOS DARÁ LA SALVACIÓN.\n\nÉl cumplirá la promesa,\ny llevará nuestras penas,\nÉL NOS DARÁ LA LIBERTAD.",
+      "note": ""
     }
   ],
   "repertoires": [
@@ -2157,6 +2164,25 @@
         "s_mu2idncjo0wks",
         "s_mr8z5q7zg1gvz",
         "s_mu73uc4xmjo7z"
+      ]
+    },
+    {
+      "id": "s_mwtgrdfg2hbbs",
+      "name": "Adviento 2026",
+      "type": "Eucaristía",
+      "songIds": [
+        "s_mue0qn3ekqw82",
+        "s_mtzmbpsolvv7y",
+        "s_mrm0s0gkw6x6k",
+        "s_mtzm78fuejlvu",
+        "s_mueawovvfaqie",
+        "s_mrm0s0gkib9am",
+        "s_mtzm0us4fzo66",
+        "s_mueas9bqwii9a",
+        "s_mue0knyx8jbyo",
+        "s_mwth54ovx9rlh",
+        "s_mueavbsplgydf",
+        "s_mr8z7pfk6tkke"
       ]
     }
   ],
